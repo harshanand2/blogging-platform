@@ -5,7 +5,7 @@ const API_BASE_URL = 'http://localhost:5000/api';
 let currentUser = null;
 let currentPage = 'home';
 let posts = [];
-
+ 
 // DOM Elements
 const elements = {};
 
